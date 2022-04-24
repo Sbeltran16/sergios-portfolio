@@ -16,4 +16,7 @@ I work with many languages such as Javascript, Python and Ruby. My biggest stren
   - Built with JavasScript, CSS, and HTML
   - A Text based game made for a user to choose different options and choosing how the game ends.
 
-
+# Contact Me
+https://www.linkedin.com/in/sergiobeltran16/ - Linkedin
+sbeltran16@gmail.com -Email
+https://github.com/Sbeltran16 -Github
