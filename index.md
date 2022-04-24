@@ -18,5 +18,5 @@ I work with many languages such as Javascript, Python and Ruby. My biggest stren
 
 # Contact Me
 https://www.linkedin.com/in/sergiobeltran16/ - Linkedin
-sbeltran16@gmail.com -Email
-https://github.com/Sbeltran16 -Github
+sbeltran16@gmail.com - Email
+https://github.com/Sbeltran16 - Github
