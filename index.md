@@ -8,11 +8,11 @@ I work with many languages such as Javascript, Python and Ruby. My biggest stren
 
 
 # Projects
-- Chirper // https://chirper2.herokuapp.com/Chirper/home
+- Chirper // <a href "https://chirper2.herokuapp.com/Chirper/home"></a>
   -Built with JavaScript, CSS, HTML, NodeJS, Express, MongoDB, and Mongoose
   -It is a microblogging page meant to let a user upload posts, edit and delete whenever they like.
 
-- Strange House // https://github.com/Sbeltran16/gameProject1
+- Strange House // <a href "https://github.com/Sbeltran16/gameProject1"></a>
   - Built with JavasScript, CSS, and HTML
   - A Text based game made for a user to choose different options and choosing how the game ends.
 
